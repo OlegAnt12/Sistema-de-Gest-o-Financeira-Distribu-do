@@ -1,0 +1,15 @@
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/bin/Debug/net8.0/Servidor
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/bin/Debug/net8.0/Servidor.deps.json
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/bin/Debug/net8.0/Servidor.runtimeconfig.json
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/bin/Debug/net8.0/Servidor.dll
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/bin/Debug/net8.0/Servidor.pdb
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.AssemblyInfoInputs.cache
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.AssemblyInfo.cs
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.csproj.CoreCompileInputs.cache
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.sourcelink.json
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.dll
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/refint/Servidor.dll
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.pdb
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/Servidor.genruntimeconfig.cache
+/workspaces/Sistema-de-Gest-o-Financeira-Distribu-do/Servidor/obj/Debug/net8.0/ref/Servidor.dll
